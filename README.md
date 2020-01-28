@@ -1,5 +1,5 @@
 # Find-trending-keywords
-this is project I worked on for a job where I was set loose to find a way to extract interesting keywords from internal amazon search data. The intent behind the project is to identify terms that can assist in the process for publishing new content. I leverage daily-level amazon search data, as well as google trends data to help identify things like: 
+this is project I worked on  a job where I was set loose to find a way to extract interesting keywords from internal amazon search data. The intent behind the project is to identify terms that can assist in the process for publishing new content. I leverage daily-level amazon search data, as well as google trends data to help identify things like: 
 
 - the consistency of the trend
 - popularity 
